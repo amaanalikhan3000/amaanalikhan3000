@@ -42,10 +42,6 @@ I'm a passionate backend software engineer who thrives on building **scalable, p
 
 ---
 
-## 💼 Professional Experience
-
-
-
 
 ## 🏆 Achievements & Recognition
 
