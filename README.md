@@ -9,7 +9,6 @@ I'm a passionate backend software engineer who thrives on building **scalable, p
 ## 🚀 About Me
 
 - 💼 Migrated critical banking systems from monoliths to microservices, handling millions of transactions with high availability and security
-- 📍 Based in Mumbai, India
 - 💡 Love working in collaborative agile teams where I can both learn and contribute
 
 ---
