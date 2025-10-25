@@ -46,46 +46,6 @@ I'm a passionate backend software engineer who thrives on building **scalable, p
 
 
 
-## 🎯 Featured Projects
-
-### 🎬 [CinemaHub](https://github.com/amaanalikhan3000/Cinemahub2)
-**Movie Ticket Booking System**
-- Thread-safe seat locking mechanism for concurrent bookings
-- JWT-based authentication with secure session management
-- OTP verification system for booking confirmation
-- Email notification service for booking updates
-- **Tech:** Spring Boot, JWT, Redis, MySQL, Spring Security
-
-### 🤖 AI Governance Platform
-**TCS AI Spark Hackathon 2025**
-- Real-time compliance monitoring dashboard
-- Async rule validation using Strategy Pattern
-- Bias detection algorithms for ML models
-- Automated audit trail generation
-- **Tech:** Spring Boot, H2 Database, Spring Data JPA, Swagger
-
-### 🛒 [SOYOC](https://soyoc.netlify.app/)
-**E-commerce Management Platform**
-- Multi-platform retailer account management
-- Automated product listing across e-commerce giants
-- Integrated social media management dashboard
-- **Tech:** React, Node.js, MongoDB, Social Media APIs
-
-### 🌰 [Makhana Store](https://makhanas1.netlify.app/)
-**E-commerce Website**
-- Product catalog with multiple categories
-- Customer reviews and ratings system
-- Responsive design for all devices
-- **Tech:** React, HTML5, CSS3, JavaScript
-
-### 💼 [Faria Data Services](https://www.fariadataservices.com/)
-**Corporate Website**
-- Professional recruitment firm website
-- Service portfolio presentation
-- Responsive multi-page layout
-- **Tech:** HTML5, CSS3, JavaScript
-
----
 
 ## 🏆 Achievements & Recognition
 
