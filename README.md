@@ -8,9 +8,7 @@ I'm a passionate backend software engineer who thrives on building **scalable, p
 
 ## 🚀 About Me
 
-- 🔭 Currently working at **Tata Consultancy Services** as a System Engineer
 - 💼 Migrated critical banking systems from monoliths to microservices, handling millions of transactions with high availability and security
-- 🎓 Graduated from **Vellore Institute of Technology (VIT), Bhopal** with a B.Tech in Computer Science
 - 📍 Based in Mumbai, India
 - 💡 Love working in collaborative agile teams where I can both learn and contribute
 
@@ -46,25 +44,7 @@ I'm a passionate backend software engineer who thrives on building **scalable, p
 
 ## 💼 Professional Experience
 
-### System Engineer @ Tata Consultancy Services
-**Oct 2023 - Present**
 
-- ✅ Migrated ICICI iMobile 3.0 from monolith to microservices using **Java 21** and **Spring Boot 3.0**
-- 🔐 Built secure RESTful APIs with **OAuth & FT42 authentication** for critical banking operations
-- ⚡ Implemented **Redis caching** strategies for high-traffic APIs, improving response times
-- 🔄 Designed async workflows with **ActiveMQ** for UPI payment processes
-- 🏗️ Built **20+ microservices** following SOLID principles and best practices
-- 🧪 Maintained **80%+ test coverage** with JUnit and integration tests
-- 🚀 Configured **CI/CD pipelines** with GitHub Actions for automated deployments
-
-### Backend Developer Intern @ Azeosoft
-**Apr 2023 - Aug 2023**
-
-- 🌐 Built REST APIs with Spring Boot & MySQL for CRM platform
-- 🔑 Integrated OAuth2 & RBAC for secure authentication and authorization
-- 🛠️ Used Spring DevTools & Actuator for monitoring and debugging
-
----
 
 ## 🎯 Featured Projects
 
@@ -110,8 +90,6 @@ I'm a passionate backend software engineer who thrives on building **scalable, p
 ## 🏆 Achievements & Recognition
 
 - 🥇 **TCS AI Spark Hackathon 2025** - AI Governance Platform
-- ⭐ **Technical Excellence Award 2025** - Login & Activation Module
-- 🎯 **TCS Xcelerate Warrior Award 2024** - Loans Module
 - ☁️ **Google Cloud Associate Engineer (ACE)** - Associate Cloud Certification
 - 🌟 **Google Cloud Ready Facilitator 2022** - 30 Quests, 15 Skill Badges
 - 🎤 **AI Planet Speaker Invitation** - Guest Speaker at DPhi Office
