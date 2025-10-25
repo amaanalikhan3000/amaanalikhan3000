@@ -1,21 +1,140 @@
-<h1 align="center">Hi 👋, I'm Amaan Ali Khan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaanalikhan3000&label=Profile%20views&color=0e75b6&style=flat" alt="amaanalikhan3000" /> </p>
+# Hi there, I'm Amaan Ali Khan 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amaan-ali-k-36b7b0bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amaan-ali-k-36b7b0bb/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/14961282/amaan-ali-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/14961282/amaan-ali-khan" height="30" width="40" /></a>
-<a href="https://kaggle.com/amaanalikhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amaanalikhan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amaanali_amaana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amaanali_amaana1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user3704vw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3704vw/" height="30" width="40" /></a>
-</p>
+## Backend Software Engineer | Java | Spring Boot | Microservices
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+I'm a passionate backend software engineer who thrives on building **scalable, production-grade systems** that power real-world applications. With over 2 years of experience, I've developed a deep love for solving complex problems with clean, maintainable code.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaanalikhan3000&show_icons=true&locale=en&layout=compact" alt="amaanalikhan3000" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaanalikhan3000&show_icons=true&locale=en" alt="amaanalikhan3000" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amaanalikhan3000&" alt="amaanalikhan3000" /></p>
+- 🔭 Currently working at **Tata Consultancy Services** as a System Engineer
+- 💼 Migrated critical banking systems from monoliths to microservices, handling millions of transactions with high availability and security
+- 🎓 Graduated from **Vellore Institute of Technology (VIT), Bhopal** with a B.Tech in Computer Science
+- 📍 Based in Mumbai, India
+- 💡 Love working in collaborative agile teams where I can both learn and contribute
 
+---
+
+## 💻 Tech Stack
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+### Databases & Caching
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![ActiveMQ](https://img.shields.io/badge/ActiveMQ-FF6600?style=for-the-badge&logo=apache&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Security & Cloud
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### System Engineer @ Tata Consultancy Services
+**Oct 2023 - Present**
+
+- ✅ Migrated ICICI iMobile 3.0 from monolith to microservices using **Java 21** and **Spring Boot 3.0**
+- 🔐 Built secure RESTful APIs with **OAuth & FT42 authentication** for critical banking operations
+- ⚡ Implemented **Redis caching** strategies for high-traffic APIs, improving response times
+- 🔄 Designed async workflows with **ActiveMQ** for UPI payment processes
+- 🏗️ Built **20+ microservices** following SOLID principles and best practices
+- 🧪 Maintained **80%+ test coverage** with JUnit and integration tests
+- 🚀 Configured **CI/CD pipelines** with GitHub Actions for automated deployments
+
+### Backend Developer Intern @ Azeosoft
+**Apr 2023 - Aug 2023**
+
+- 🌐 Built REST APIs with Spring Boot & MySQL for CRM platform
+- 🔑 Integrated OAuth2 & RBAC for secure authentication and authorization
+- 🛠️ Used Spring DevTools & Actuator for monitoring and debugging
+
+---
+
+## 🎯 Featured Projects
+
+### 🎬 [CinemaHub](https://github.com/amaanalikhan3000/Cinemahub2)
+**Movie Ticket Booking System**
+- Thread-safe seat locking mechanism for concurrent bookings
+- JWT-based authentication with secure session management
+- OTP verification system for booking confirmation
+- Email notification service for booking updates
+- **Tech:** Spring Boot, JWT, Redis, MySQL, Spring Security
+
+### 🤖 AI Governance Platform
+**TCS AI Spark Hackathon 2025**
+- Real-time compliance monitoring dashboard
+- Async rule validation using Strategy Pattern
+- Bias detection algorithms for ML models
+- Automated audit trail generation
+- **Tech:** Spring Boot, H2 Database, Spring Data JPA, Swagger
+
+### 🛒 [SOYOC](https://soyoc.netlify.app/)
+**E-commerce Management Platform**
+- Multi-platform retailer account management
+- Automated product listing across e-commerce giants
+- Integrated social media management dashboard
+- **Tech:** React, Node.js, MongoDB, Social Media APIs
+
+### 🌰 [Makhana Store](https://makhanas1.netlify.app/)
+**E-commerce Website**
+- Product catalog with multiple categories
+- Customer reviews and ratings system
+- Responsive design for all devices
+- **Tech:** React, HTML5, CSS3, JavaScript
+
+### 💼 [Faria Data Services](https://www.fariadataservices.com/)
+**Corporate Website**
+- Professional recruitment firm website
+- Service portfolio presentation
+- Responsive multi-page layout
+- **Tech:** HTML5, CSS3, JavaScript
+
+---
+
+## 🏆 Achievements & Recognition
+
+- 🥇 **TCS AI Spark Hackathon 2025** - AI Governance Platform
+- ⭐ **Technical Excellence Award 2025** - Login & Activation Module
+- 🎯 **TCS Xcelerate Warrior Award 2024** - Loans Module
+- ☁️ **Google Cloud Associate Engineer (ACE)** - Associate Cloud Certification
+- 🌟 **Google Cloud Ready Facilitator 2022** - 30 Quests, 15 Skill Badges
+- 🎤 **AI Planet Speaker Invitation** - Guest Speaker at DPhi Office
+- 👥 **DPhi Data Science Bootcamp Mentor** - Mentoring in Data Science Bootcamp
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaanalikhan3000&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaanalikhan3000&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amaan-ali-k-36b7b0bb)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amaanalikhan3000)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+💡 *"Building scalable systems, one microservice at a time"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=amaanalikhan3000&color=blueviolet)
