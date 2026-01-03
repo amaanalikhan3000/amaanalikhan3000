@@ -52,13 +52,6 @@ I'm a passionate backend software engineer who thrives on building **scalable, p
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaanalikhan3000&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaanalikhan3000&layout=compact&theme=radical)
-
----
 
 ## 🤝 Let's Connect
 
