@@ -2,7 +2,7 @@
 
 ## Backend Software Engineer | Java | Spring Boot | Microservices
 
-I'm a passionate backend software engineer who thrives on building **scalable, production-grade systems** that power real-world applications. With over 2 years of experience, I've developed a deep love for solving complex problems with clean, maintainable code.
+I'm a passionate backend software engineer who thrives on building **scalable, production-grade systems** that power real-world applications. With over 3 years of experience, I've developed a deep love for solving complex problems with clean, maintainable code.
 
 ---
 
